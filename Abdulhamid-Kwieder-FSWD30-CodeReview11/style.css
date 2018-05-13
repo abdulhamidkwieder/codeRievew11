@@ -1,0 +1,54 @@
+
+body{
+	background-image: url('img/back2.jpg');
+	background-size: 100% auto;
+	margin-top: 1px;
+}
+header{
+	background-color: #D6EEEE;
+	min-height: 50px;
+	height: 200px;
+	padding-top: 10px;
+	padding-left: 10%;
+	margin-bottom: 2px;
+}
+#hero{
+	background-image: url('img/back3.jpg');
+	background-size: 100%;
+	min-height: 590px;
+	height: auto;
+	width: 100%;
+	margin-top: 1px;
+}
+.col-4{
+	text-align: center;
+	margin-top: 2%;
+}
+img{
+	height: 200px;
+
+}
+#special{
+	width: 100%;
+	height: auto;	
+}
+.box{
+	background-color: #D6EEEE;
+	margin: 5px;
+	padding: 5px;
+	padding-top: 20px;
+	color: black;
+	min-height: 450px;
+	border-radius: 20px;
+}
+
+table{
+	margin-top: 20px;
+}
+th{
+	background-color: #D6EEEE;
+}
+td{
+	background-color: #D6EEEE;
+}
+
